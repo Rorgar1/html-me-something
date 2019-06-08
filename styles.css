@@ -1,0 +1,56 @@
+body {
+    background-color: papayawhip;
+}
+
+
+header, main, footer {
+    padding: 8px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: justify;
+    padding: 20;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  
+.intro {
+    display: inline-flexbox;
+    text-align: justify;
+
+    }
+.header {
+    text-decoration-line: underline;
+    text-align: center;
+}
+p {
+    background-color: beige;
+    text-align: center;
+}
+img {
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    max-width: 100;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h2 {
+    padding: 10px;
+}
+#conclusion {
+    padding: 50px;
+    font-size: larger;
+    font-weight: bolder
+    
+}
